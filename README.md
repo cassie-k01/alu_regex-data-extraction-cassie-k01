@@ -30,5 +30,6 @@ This script simulates a data-aggregating API that scans text content from the we
    cd alu_regex-data-extraction-cassie-k01
 
 ## Run the script
-```bash extract.py 
+``` bash 
+python extract.py 
 
