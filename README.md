@@ -29,7 +29,4 @@ This script simulates a data-aggregating API that scans text content from the we
    git clone https://github.com/your-username/alu_regex-data-extraction-cassie-k01.git
    cd alu_regex-data-extraction-cassie-k01
 
-## Run the script
-``` bash 
-python3 extract.py 
 
