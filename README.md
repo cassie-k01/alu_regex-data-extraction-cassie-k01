@@ -31,5 +31,5 @@ This script simulates a data-aggregating API that scans text content from the we
 
 ## Run the script
 ``` bash 
-python extract.py 
+python3 extract.py 
 
